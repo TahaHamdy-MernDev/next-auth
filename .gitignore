@@ -1,0 +1,11 @@
+# dependencies
+auth-client/node_modules
+auth-server/node_modules
+auth-server/dist
+
+# next.js
+auth-client/.next/
+auth-client/out/
+
+# production
+auth-client/build
